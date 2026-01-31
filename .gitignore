@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+server/src/FinSight.code-workspace
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+
+# Optional: VS Code settings
+.vscode/
+
+# Coverage/test output (optional)
+coverage/
