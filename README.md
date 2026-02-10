@@ -19,7 +19,7 @@ FinSight is an intelligent personal finance platform that helps users track expe
 
 ### [1] Clone the repository
 ```shell
-git clone https://github.com/haseebshaik00/FinSight.git
+git clone https://github.com/varunsingh4/FinSight.git
 ```
 
 ### [2] Environment Setup
